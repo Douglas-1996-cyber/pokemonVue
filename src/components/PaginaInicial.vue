@@ -98,6 +98,7 @@ import MissingNo from '@/assets/images/MissingNo.png'
     padding:0;
     box-sizing:border-box;
     font-family: 'Times New Roman', Times, serif;
+  
    }
    div{
     display: inline-block;
